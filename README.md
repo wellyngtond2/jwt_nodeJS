@@ -1,4 +1,4 @@
-# Example JWT with NodeJS
+# Example JWT with NodeJS and Express
 
 Using:
 
