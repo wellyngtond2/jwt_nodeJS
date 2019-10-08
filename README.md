@@ -8,3 +8,7 @@ Using:
 * Sequelize 
 * Bcryptjs 
 * Microsoft Sql Server for JWT authentication.
+
+## Authors
+
+- **Wellyngton Borges** - [GitHub](https://github.com/wellyngtond2) - [Linkedin](https://www.linkedin.com/in/wellyngtonborges/)
